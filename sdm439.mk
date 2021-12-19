@@ -56,7 +56,8 @@ PRODUCT_COPY_FILES += \
 
 # ANT
 PRODUCT_PACKAGES += \
-    AntHalService 
+    AntHalService \
+    com.dsi.ant.antradio_library
 
 # APN
 PRODUCT_COPY_FILES += \
